@@ -20,9 +20,9 @@
 
 /**
  * Number of Sections: number of section tabs in the navbar (recommended between 3 and 5)
- * default value: 3
+ * default value: 5
  */
-const NUMBER_OF_SECTIONS = 3;
+const NUMBER_OF_SECTIONS = 5;
 
 /**
  * List of Sections: contains list of section elements with their content
